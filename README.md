@@ -39,7 +39,7 @@ O **MAPA (Monitorização Ambulatorial da Pressão Arterial)** é um exame que a
 
 O **Circadia** é uma POC que mostra como colocar IA generativa em um fluxo clínico com rigor de engenharia: a matemática do exame é calculada em código testável, e o LLM só redige texto a partir de números já calculados.
 
-O projeto foi gerado a partir do template [Clean Architecture](https://github.com/jasontaylordev/CleanArchitecture) (Jason Taylor) com **React** e **SQL Server**, e é independente dos projetos legados `air-api` e `air2-web`. Dos legados, apenas os padrões foram reaproveitados como referência: Keycloak com RBAC por clínica, laudo versionado, presets e exportação em docx/PDF.
+O projeto foi gerado a partir do template [Clean Architecture](https://github.com/jasontaylordev/CleanArchitecture) (Jason Taylor) com **React** e **SQL Server**.
 
 ---
 
