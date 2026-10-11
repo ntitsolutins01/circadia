@@ -31,7 +31,11 @@
 
 ## 📌 Sobre o Projeto
 
-O **MAPA** mede a pressão arterial ao longo de 24 horas (ou mais) com um manguito no braço ligado a um pequeno aparelho na cintura, que infla automaticamente a cada 20 ou 30 minutos. Serve para diagnosticar hipertensão, avaliar o efeito do tratamento, investigar picos de pressão e observar o comportamento da pressão durante o sono.
+O **MAPA (Monitorização Ambulatorial da Pressão Arterial)** é um exame que acompanha a pressão arterial ao longo de 24 horas ou mais na rotina do paciente.
+
+- **O que mede:** A pressão arterial — os níveis de força do sangue nas artérias.
+- **Como é feito:** Um manguito inflável no braço é conectado a um pequeno aparelho na cintura, que infla automaticamente a cada 20–30 minutos durante 24 horas (ou mais).
+- **Para que serve:** Diagnosticar hipertensão, avaliar o efeito de medicamentos, investigar picos de pressão e verificar o comportamento da pressão durante o sono.
 
 O **Circadia** é uma POC que mostra como colocar IA generativa em um fluxo clínico com rigor de engenharia: a matemática do exame é calculada em código testável, e o LLM só redige texto a partir de números já calculados.
 
